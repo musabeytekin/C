@@ -1,5 +1,3 @@
-// 02190201003-MUSA BEYTEKİN
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
